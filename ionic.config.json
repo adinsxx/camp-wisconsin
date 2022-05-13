@@ -1,0 +1,8 @@
+{
+  "name": "Camp Wisconsin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "3691f0c2"
+}
